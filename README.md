@@ -1,16 +1,34 @@
-### Hi there 👋
+### Hi there 👋 I'm [Hein Htet Win](https://github.com/heinhtetwin)
+> 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓, 𝑪𝒐𝒏𝒕𝒆𝒏𝒕 𝑪𝒓𝒆𝒂𝒕𝒐𝒓
 
-<!--
-**heinhtetwin/heinhtetwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+<p>
 
-Here are some ideas to get you started:
+  
+- 🔭 I’m currently working as a DevOps Engineer and content creation about related tech topics.
+- 🌱 I’m currently learning IAC, Cloud-Native, Microservices.
+- 👯 I’m looking to collaborate on any open source projects.
+- 💬 Ask me about Kubernetes, Cloud, DevOps and Linux.
+- 📫 How to reach me: Twitter: @HeinuxDevOps or email: heinhtetwin386@gmail.com
+- ⚡ Fun fact: You can always do better!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  </p>
+  </div>
+  
+## 🧰 Languages and Tools:
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" height="60" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="Kubernetes" height="60" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS" height="60" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" alt="Terraform" height="60" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="60" style="vertical-align:top; margin:4px">
+</p>
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.heinhtetwin.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.heinhtetwin.com-blue?style=flat&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/hein-htet-win/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%40heinhtetwin-blue?style=flat&logo=linkedin"></a>
+<a href="https://twitter.com/HeinuxDevOps" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/twitter/follow/HeinuxDevOps?style=social"></a>
+<a href="mailto:heinhtetwin386@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-heinhtetwin386%40gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
