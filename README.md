@@ -1,14 +1,13 @@
-### Hi there 👋 I'm [Hein Htet Win](https://github.com/heinhtetwin)
-> 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓, 𝑪𝒐𝒏𝒕𝒆𝒏𝒕 𝑪𝒓𝒆𝒂𝒕𝒐𝒓
-
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Hein Htet Win</h1>
 <div>
 <p>
 
+## 👨🏻‍💻 About Me:
   
-- 🔭 I’m currently working as a DevOps Engineer and content creation about related tech topics.
-- 🌱 I’m currently learning IAC, Cloud-Native, Microservices.
+- 🔭 I’m currently working as a **DevOps Engineer** and **Content Creator** about related tech topics.
+- 🌱 I’m currently learning `IAC` `Cloud-Native` and `Microservices`.
 - 👯 I’m looking to collaborate on any open source projects.
-- 💬 Ask me about Kubernetes, Cloud, DevOps and Linux.
+- 💬 Ask me about `Kubernetes` `Cloud` `DevOps` and `Linux`.
 - 📫 How to reach me: Twitter: @HeinuxDevOps or email: heinhtetwin386@gmail.com
 - ⚡ Fun fact: You can always do better!!
 
