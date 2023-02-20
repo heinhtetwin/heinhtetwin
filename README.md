@@ -26,7 +26,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.heinhtetwin.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.heinhtetwin.com-blue?style=flat&logo=google-chrome"></a>
+<a href="https://portfolio.heinhtetwin.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.heinhtetwin.com-blue?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/hein-htet-win/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%40heinhtetwin-blue?style=flat&logo=linkedin"></a>
 <a href="https://twitter.com/HeinuxDevOps" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/twitter/follow/HeinuxDevOps?style=social"></a>
 <a href="https://www.youtube.com/@learningwithheinux"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-%40learningwithheinux-red?style=social&logo=youtube"></a>
