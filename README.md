@@ -64,8 +64,12 @@ width="40" height="40"/></a></a>
 
 ## My GitHub Stats
 
-<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=github&preferLogin=false&Ring=DDA84B&Background=CFDDC0">    <img  alt="heinhtetwin's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/heinhtetwin?cardType=octocat&theme=github&preferLogin=false&Ring=DDA84B&Background=CFDDC0" />  </a>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heinhtetwin&layout=compact&Background=CFDDC0"/> </p>
+<p>
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=github&preferLogin=false&Ring=DDA84B&Background=CFDDC0">    <img  align="center" alt="heinhtetwin's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/heinhtetwin?cardType=octocat&theme=github&preferLogin=false&Ring=DDA84B&Background=CFDDC0" /> </a>
+&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heinhtetwin&layout=compact&Background=CFDDC0"/>
+
+&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heinhtetwin"/>
+</p>
 
 ## 🤝🏻 Connect with Me 
 
