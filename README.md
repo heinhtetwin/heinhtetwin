@@ -1,15 +1,14 @@
-![](https://raw.githubusercontent.com/heinhtetwin/heinhtetwin/master/GitHub_Cover.png)
+![](https://github.com/heinhtetwin/heinhtetwin/blob/b8e49c89de2578e0a3fcf883d398a7807030229c/HHW_cartoon_profile.png)
 <h1 align="left">Welcome to my Github Profile <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" width="30px" height="60px"> </h1>
 
 ## 👨🏻‍💻 About Me:
 
 <img  src="./devops.jpg" height="290px" align="right" />
 
-- 🔭 I’m currently working as a **DevOps Engineer** and **Content Creator** about related tech topics.
-- 🌱 I’m currently learning `IAC` `Cloud-Native` and `Microservices`.
+- 🔭 I’m currently working as a **DevOps Engineer** and **Technical Content Creator** about related `DevOps services`, `Cloud Computing` and `AI/ML`.
 - 👯 I’m looking to collaborate on any open source projects.
-- 💬 Ask me about `Kubernetes` `Cloud` `DevOps` and `Linux`.
-- 📫 How to reach me: Twitter: @HeinuxDevOps or email: heinhtetwin386@gmail.com
+- 💬 Ask me about `Kubernetes` `Cloud` `DevOps` `Linux` and many more.
+- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/hein-htet-win Twitter: @HeinuxDevOps or email: heinhtetwin386@gmail.com
 - ⚡ Fun fact: You can always do better!!
 
   </p>
@@ -74,7 +73,7 @@ width="40" height="40"/></a></a>
 ## 🤝🏻 Connect with Me 
 
 <p align="center">
-<a href="https://portfolio.heinhtetwin.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.heinhtetwin.com-blue?style=flat&logo=google-chrome"></a>
+<a href="https://heinhtetwin-portfolio.netlify.app" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-heinhtetwin.dev-blue?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/hein-htet-win/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%40heinhtetwin-blue?style=flat&logo=linkedin"></a>
 <a href="https://twitter.com/HeinuxDevOps" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/twitter/follow/HeinuxDevOps?style=social"></a>
 <a href="https://www.youtube.com/@learningwithheinux"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-%40learningwithheinux-red?style=social&logo=youtube"></a>
