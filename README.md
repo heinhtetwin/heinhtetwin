@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="./HHW_cartoon_profile.png" height="270px" width="200px" align="right" />
+<img  src="./HHW_cartoon_profile.png" height="260px" width="200px" align="right" />
 
 - 🔭 I’m currently working as a **DevOps Engineer** and **Technical Content Creator** about related `DevOps services`, `Cloud Computing` and `AI/ML`.
 - 👯 I’m looking to collaborate on any open source projects.
