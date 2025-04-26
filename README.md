@@ -1,9 +1,8 @@
-![](https://github.com/heinhtetwin/heinhtetwin/blob/b8e49c89de2578e0a3fcf883d398a7807030229c/HHW_cartoon_profile.png)
 <h1 align="left">Welcome to my Github Profile <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" width="30px" height="60px"> </h1>
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="./devops.jpg" height="290px" align="right" />
+<img  src="./HHW_cartoon_profile.png" height="280px" width="200px" align="right" />
 
 - 🔭 I’m currently working as a **DevOps Engineer** and **Technical Content Creator** about related `DevOps services`, `Cloud Computing` and `AI/ML`.
 - 👯 I’m looking to collaborate on any open source projects.
